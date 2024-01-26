@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+table{
+	border:1px solid orange;
+	border-width: 0px 0px 1px 1px;
+	
+}
+th,td{
+	text-align:center;
+	border:1px solid orange;
+	padding:3px 5px;
+	border-width: 1px 1px 0px 0px;
+}
+th{
+	background-color: rgb(136, 136, 136);
+	color:white;
+}
+.sub-total-text{
+	text-align:right;
+}
